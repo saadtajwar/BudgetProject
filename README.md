@@ -3,7 +3,7 @@
 ### Overview
 ExpensesWeb is a Django web application that allows users to log their income and expenses and view their budget using visual charts!
 
-LyricFinder uses **[Chartjs]** to create charts visualizing your income and expenses!
+ExpensesWeb uses **[Chartjs]** to create charts visualizing your income and expenses!
 
 [Chartjs]: https://www.chartjs.org
 
